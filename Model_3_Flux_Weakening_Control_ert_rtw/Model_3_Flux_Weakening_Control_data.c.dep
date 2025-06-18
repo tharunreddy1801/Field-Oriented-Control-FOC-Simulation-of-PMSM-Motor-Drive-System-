@@ -1,0 +1,24 @@
+Model_3_Flux_Weakening_Control_data.c.o: \
+ Model_3_Flux_Weakening_Control_data.c Model_3_Flux_Weakening_Control.h \
+ rtwtypes.h C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h \
+ C:/Users/yenna/DOWNLO~1/MOTOR_~1/Model_3_Flux_Weakening_Control_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h \
+ Model_3_Flux_Weakening_Control_types.h \
+ Model_3_Flux_Weakening_Control_private.h
+
+Model_3_Flux_Weakening_Control.h:
+
+rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h:
+
+C:/Users/yenna/DOWNLO~1/MOTOR_~1/Model_3_Flux_Weakening_Control_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h:
+
+Model_3_Flux_Weakening_Control_types.h:
+
+Model_3_Flux_Weakening_Control_private.h:
