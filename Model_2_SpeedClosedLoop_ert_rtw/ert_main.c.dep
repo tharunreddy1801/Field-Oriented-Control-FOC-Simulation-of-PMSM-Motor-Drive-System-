@@ -1,0 +1,32 @@
+ert_main.c.o: ert_main.c Model_2_SpeedClosedLoop.h rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h \
+ C:/Users/yenna/DOWNLO~1/MOTOR_~1/Model_2_SpeedClosedLoop_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h \
+ Model_2_SpeedClosedLoop_types.h rtGetNaN.h rt_nonfinite.h rtGetInf.h \
+ Model_2_SpeedClosedLoop_private.h \
+ C:/PROGRA~1/MATLAB/R2018b/toolbox/target/codertarget/rtos/inc/linuxinitialize.h
+
+Model_2_SpeedClosedLoop.h:
+
+rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h:
+
+C:/Users/yenna/DOWNLO~1/MOTOR_~1/Model_2_SpeedClosedLoop_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h:
+
+Model_2_SpeedClosedLoop_types.h:
+
+rtGetNaN.h:
+
+rt_nonfinite.h:
+
+rtGetInf.h:
+
+Model_2_SpeedClosedLoop_private.h:
+
+C:/PROGRA~1/MATLAB/R2018b/toolbox/target/codertarget/rtos/inc/linuxinitialize.h:
